@@ -7,3 +7,6 @@ Tranning
   - [CS Visao Computacional](https://csvisaocomputacional.com.br)
   - 
 - English
+
+Porgueses only 
+-[Computer Vision - Materias de Referência](https://github.com/andrelcalves/Trilha-de-Estudos-de-Data-Science#computer-vision)
